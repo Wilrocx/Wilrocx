@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Scraping**
 
-- 👯 I’m looking to collaborate on **Data Pipeline**
+- 👯 I’m looking to collaborate on **Big Data Pipeline**
 
 - 🤝 I’m looking for help with **Web Scraping**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wilson emmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson emmanuee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wilson-emmanuel-690b20b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson emmanuee" height="30" width="40" /></a>
 <a href="https://instagram.com/wilrocx45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wilrocx45" height="30" width="40" /></a>
 </p>
 
