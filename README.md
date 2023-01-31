@@ -1,5 +1,5 @@
 
-[![MasterHead](https://penrose.law/wp-content/uploads/Code.jpg)](https://wilrocx.io)
+
 <h1 align="center">Hi 👋, I'm Wilson Emmanuel</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
